@@ -1,14 +1,18 @@
 # MechaCar_Statistical_Analysis
 
 ### Project Overview:
-![tot_summary](https://user-images.githubusercontent.com/109227896/197421728-0d5c0bc0-d766-4bb9-9088-a30e49dff9e4.png)
 
 Deliverable 1: Linear Regression to Predict MPG
+
 Deliverable 2: Summary Statistics on Suspension Coils
+
 Deliverable 3: T-Test on Suspension Coils
+
 Deliverable 4: Design Proposal a Study Comparing the MechaCar to the Competition
 
+
 ### Linear Regression to Predict MPG
+
 ![Lin_Reg](https://user-images.githubusercontent.com/109227896/197421672-a81c0f91-7e6c-42ad-9609-e91e16a6e861.png)
 
 
