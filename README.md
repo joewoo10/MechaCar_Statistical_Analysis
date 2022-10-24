@@ -52,6 +52,8 @@ The statistical analysis of this section determined if all manufacturing lots an
 
 ![summary](https://user-images.githubusercontent.com/109227896/197422069-9d6532b0-93aa-4845-ac77-973208f4a218.png)
 
+A similar conclusion can be drawn upon analyzing each individual Lot. The p-value of Lot 1 is 1, while the p-value of Lot 2 is 0.6072, and the p-value of lot 3 is 0.04168. Since the p-values of Lots 1 and 2 are greater than the significance level, they fail to reject the null hypothesis and a statistical difference between these two lots and the population mean can be established. On the other hand, the p-value of Lot 3 falls short of the significance level, meaning there is sufficient statistical evidence to reject the null hypothesis. This demonstrates that Lot 3 and the presumed population mean are not statistically different.
+
 #### Lot 1
 
 ![lot_1](https://user-images.githubusercontent.com/109227896/197422126-5cad2d69-d483-4e53-8254-cde02203abd3.png)
