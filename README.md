@@ -21,9 +21,9 @@ According to our results, vehicle length and ground clearance are statistically 
 
 ### Is the slope of the linear model considered to be zero? Why or why not?
 
-The slope of the linear model is not considered to be zero because there is a significant relationship between two independent variables, vehicle length and ground clearance, and the dependent variable - MPG.
+The slope of the linear model is not considered to be zero because there is a significant relationship between two independent variables - vehicle length and ground clearance, and the dependent variable - MPG.
 
-### Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+### Does this linear model predict MPG of MechaCar prototypes effectively? Why or why not?
 
 The Multiple R-squared value is 0.7149. Therefore, the model predicts MPG of MechaCar effectively at a rate of approximately 71%. 
 
