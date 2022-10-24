@@ -68,3 +68,5 @@ A similar conclusion can be drawn upon analyzing each individual Lot. The p-valu
 
 
 ## Study Design: MechaCar vs Competition
+
+One of the most significant factors that consumers consider when searching for a new car is the safety rating. It would be useful to perform a study comparing the safety ratings of MechaCar vehicles against the those of vehicles from other manufacturers. The null hypothesis would be that MechaCar vehicles do not have statistically significant higher safety ratings than that of vehicles from other manufacturers, while the alternative hypothesis would be that MechaCar vehicles do have statistically significant higher safety ratings than that of vehicles from other manufacturers. The way to test this would be to use a one-tailed t-test, which would determine if there were any difference between the groups being compared. A two-tailed t-test would not be used as we have a prediction about the direction of the difference. The data needed to run the statistical test would be a table of MechaCar vehicles and their respective safety ratings, along with cars and safety ratings from various other manufacturers.
